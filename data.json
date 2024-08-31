@@ -1,0 +1,98 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "Atomic Habits",
+        "author": "James Clear",
+        "image": "https://images.unsplash.com/photo-1613520761471-8d5f28e343c0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "review": "A comprehensive guide to building good habits and breaking bad ones, focusing on small, incremental changes.",
+        "totalPages": 320,
+        "rating": 4.8,
+        "category": "Self-Help",
+        "tags": [
+            "Habits",
+            "Productivity"
+        ],
+        "publisher": "Avery",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 2,
+        "bookName": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "image": "https://m.media-amazon.com/images/I/71rmHeQeuRL._SY425_.jpg",
+        "review": "A timeless manual for personal and professional effectiveness, emphasizing principles and character.",
+        "totalPages": 381,
+        "rating": 4.7,
+        "category": "Self-Help",
+        "tags": [
+            "Leadership",
+            "Personal Development"
+        ],
+        "publisher": "Free Press",
+        "yearOfPublishing": 1989
+    },
+    {
+        "bookId": 3,
+        "bookName": "Who Moved My Cheese?",
+        "author": "Spencer Johnson",
+        "image": "https://m.media-amazon.com/images/I/814-J6OB6qL._SX342_.jpg",
+        "review": "An insightful parable about change and how to adapt to it effectively in both work and life.",
+        "totalPages": 96,
+        "rating": 4.5,
+        "category": "Self-Help",
+        "tags": [
+            "Change Management",
+            "Motivation"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 1998
+    },
+    {
+        "bookId": 4,
+        "bookName": "Eat That Frog!",
+        "author": "Brian Tracy",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328854785i/95887.jpg",
+        "review": "A practical guide to overcoming procrastination and tackling the most important tasks first.",
+        "totalPages": 144,
+        "rating": 4.6,
+        "category": "Self-Help",
+        "tags": [
+            "Productivity",
+            "Time Management"
+        ],
+        "publisher": "Berrett-Koehler Publishers",
+        "yearOfPublishing": 2001
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "image": "https://markmanson.net/wp-content/themes/mm-main/images/subtle-art-with-pages.png",
+        "review": "A counterintuitive approach to living a good life, emphasizing the importance of focusing on what truly matters.",
+        "totalPages": 224,
+        "rating": 4.5,
+        "category": "Self-Help",
+        "tags": [
+            "Self-Improvement",
+            "Mindset"
+        ],
+        "publisher": "HarperOne",
+        "yearOfPublishing": 2016
+    },
+    {
+        "bookId": 6,
+        "bookName": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "image": "https://m.media-amazon.com/images/I/618eO0O6fLL._AC_UF1000,1000_QL80_.jpg",
+        "review": "A classic self-help book that outlines the principles of success and how to apply them in your life.",
+        "totalPages": 238,
+        "rating": 4.7,
+        "category": "Self-Help",
+        "tags": [
+            "Success",
+            "Wealth"
+        ],
+        "publisher": "The Ralston Society",
+        "yearOfPublishing": 1937
+    }
+]
